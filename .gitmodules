@@ -1,0 +1,7 @@
+[submodule "fprime"]
+	path = fprime
+	url = https://github.com/nasa/fprime.git
+[submodule "fprime-arduino"]
+	path = fprime-arduino
+	url = https://github.com/ethancheez/fprime-arduino.git
+	branch = devel-ethan
